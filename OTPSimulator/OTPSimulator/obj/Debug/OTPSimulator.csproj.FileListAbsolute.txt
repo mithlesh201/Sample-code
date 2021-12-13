@@ -1,0 +1,18 @@
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.exe.config
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.exe
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.pdb
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.Form1.resources
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.exe
+C:\Users\Lenovo\source\repos\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.pdb
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.exe.config
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.exe
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\bin\Debug\OTPSimulator.pdb
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.Form1.resources
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.Properties.Resources.resources
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.csproj.GenerateResource.cache
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.csproj.CoreCompileInputs.cache
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.exe
+E:\UPI\06092021_Final\Final Code\OTPSimulator\OTPSimulator\obj\Debug\OTPSimulator.pdb
